@@ -8,8 +8,7 @@ I've been working on a terminal based To-Do List Application in C++ that offers 
 
 
 
-🔹 Show All Tasks: View all your tasks, neatly organized by priority and due date. High-priority tasks appear first, and tasks with the same priority are sorted by the closest due date. 
-                   Tasks are color-coded based on their priority for easy identification.
+🔹 Show All Tasks: View all your tasks, neatly organized by priority and due date. High-priority tasks appear first, and tasks with the same priority are sorted by the closest due date.Tasks are color-coded based on their priority for easy identification.
 
 
 

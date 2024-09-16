@@ -1,4 +1,5 @@
-/*************************************Task1_ToDoList****************************************************************/
+# Task1_ToDoList
+
 I've been working on a terminal based To-Do List Application in C++ that offers a seamless experience for managing tasks efficiently. Here are some key features :
 
 🔹 Add a Task: Easily add new tasks with priority levels (High, Medium, Low) and a due date in Day/Month/Year and hour in AM/PM format.
@@ -13,7 +14,8 @@ I've been working on a terminal based To-Do List Application in C++ that offers 
 
 The app ensures that your tasks are always displayed in the most logical order, making it easier to prioritize and manage your workload. 
 
-/***************************************Task2_OnlineQuiz****************************************************/
+# Task2_OnlineQuiz
+
 This project is a console-based Online Quiz Game that includes user registration, login, and quizzes on various topics such as Math, Programming, and Sports.
 
 ✨ Key Features:
@@ -28,7 +30,8 @@ This project is a console-based Online Quiz Game that includes user registration
 
 🔹 Correct Answers Display: Shows correct answers after the quiz is completed.
 
-/***************************************Task3_NumberGuessingGame********************************************/
+# Task3_NumberGuessingGame
+
 This project is a Number guessing Game !
 
 ✨ Key Features:
